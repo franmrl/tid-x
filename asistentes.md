@@ -50,5 +50,4 @@ localización).
 - [Borja Marcos](https://es.linkedin.com/in/borjamarcos) (Madrid)
 - [Guillermo López](https://github.com/willyaranda) (Madrid)
 - [Juanjo Martín](https://github.com/jjmr) (Madrid)
-- [Francisco Martínez](https://github.com/franmrl) (Barcelona)
-
+- [Francisco Martinez](https://github.com/franmrl) (Barcelona)
